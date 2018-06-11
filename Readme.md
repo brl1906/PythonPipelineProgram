@@ -25,9 +25,8 @@ For example, files in the Communications directory labeled:
 * press_release_on_partnership_jan31
 * press_release_on_program_feb1
 * press_release_showcase_may16
-
-Help provide a sense for the type and frequency of public information activity and how these actions relate to the program as a whole or individual components or milestones.
 ```
+Help provide a sense for the type and frequency of public information activity and how these actions relate to the program as a whole or individual components or milestones.
 
 
 ## Partners
@@ -42,11 +41,11 @@ Help provide a sense for the type and frequency of public information activity a
 
 * **Babila Lima**  -- Director, Business Process Improvement Office
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/brl1906/PythonPipelineProgram/blob/master/Initiation_Planning/project_contributors_list.txt) who participated in this project.
 
 ## License
 
-This project is licensed under theCC0 1.0 Universal - see the [LICENSE.txt](https://github.com/brl1906/PythonPipelineProgram/blob/master/License.txt) file for details
+This project is licensed under theCC0 1.0 Universal - see the [LICENSE](https://github.com/brl1906/PythonPipelineProgram/blob/master/License.txt) file for details
 
 ## Acknowledgments
 
