@@ -1,4 +1,4 @@
-# Project Title
+# Python Pipeline For Government Project
 
 Pilot project and partnership between Baltimore City government (Dept. of General Services Business Process Improvement Office) and non profit partner (Code In The Schools). Project creates a project-based training and talent development pipeline to expose local high school students to Python through real agency problems and projects and develop a talent development and path into City government in computational jobs for young students.  
 ## Who Is This Repo For???
