@@ -39,6 +39,11 @@ to help provide a sense for the type and frequency of public information activit
 * [Code In The Schools](https://www.codeintheschools.org/) - Non Profit Partner (CITS)
 * [Baltimore City Office of IT](https://moit.baltimorecity.gov/) - BCIT
 
+ <img src=''>John Foster, Partner & Programs Manager for Fearless Solutions
+ <img src=''>TJ Graven, VP of Global Information Technology for [Under Armour](https://www.underarmour.com/en-us/) 
+ <img src=''>Dr. Brian Coats, Asst VP Technology Operations & Planning for [University of Maryland Baltimore](http://www.umaryland.edu/)
+ <img src=''>Mallory Zimmerman, Chief Operating Officer for [Linq Services](https://www.linqservices.com/)
+ 
 
 
 ## Authors
