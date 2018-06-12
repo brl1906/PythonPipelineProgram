@@ -39,11 +39,13 @@ to help provide a sense for the type and frequency of public information activit
 * [Code In The Schools](https://www.codeintheschools.org/) - Non Profit Partner (CITS)
 * [Baltimore City Office of IT](https://moit.baltimorecity.gov/) - BCIT
 
- <img src='Media_and_Photos/Headshots/frl.png'>John Foster, Partner & Programs Manager for [Fearless Solutions](http://fearless.tech/)
- <img src='Media_and_Photos/Headshots/ua.png'>TJ Graven, VP of Global Information Technology for [Under Armour](https://www.underarmour.com/en-us/) 
- <img src='Media_and_Photos/Headshots/umb.png'>Dr. Brian Coats, Asst VP Technology Operations & Planning for [University of Maryland Baltimore](http://www.umaryland.edu/)
- <img src='Media_and_Photos/Headshots/lnq.png'>Mallory Zimmerman, Chief Operating Officer for [Linq Services](https://www.linqservices.com/)
- 
+John Foster                |  TJ Graven                |  Mallory Zimmerman        |  Dr. Brian Coats                
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+ <img src='Media_and_Photos/Headshots/frl.png' height=100 width=100> | <img src='Media_and_Photos/Headshots/ua.png' height=100 width=100> | <img src='Media_and_Photos/Headshots/lnq.png' height=100 width=100> | <img src='Media_and_Photos/Headshots/umb.png' height=100 width=100>                     |                           |                           |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+  Partner & Programs Manager [Fearless Solutions](http://fearless.tech/) | VP Global Information Technology [Under Armour](https://www.underarmour.com/en-us/) | Chief Operating Officer for [Linq Services](https://www.linqservices.com/) | Asst VP Technology Operations [University of Maryland Baltimore](http://www.umaryland.edu/)                       
+                       
+
 
 
 ## Authors
