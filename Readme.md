@@ -7,9 +7,7 @@ Pilot project and partnership between Baltimore City government (Dept. of Genera
 
 ## Who Is This Repo For???
 
-spell out who the repo is for...
-
-local or state governments looking to create a similar program or talent development pipeline to attract a younger generation of students to meantingful summer internship work or expose them to opportunities for them to engage in civic hacking, small automation or data analysis projects to help improve government.
+This project repo is for any local or state governments looking to create a similar program or talent development pipeline to attract a younger generation of students to meantingful summer internship work or expose high school stuents to opportunities to engage in civic hacking, small scale automation of public sector administrative tasks or data analysis projects to help improve the way government works.
 
 ### Prerequisites
 
