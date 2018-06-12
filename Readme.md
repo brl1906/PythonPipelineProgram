@@ -1,6 +1,10 @@
 # Python Pipeline For Government Project
 
 Pilot project and partnership between Baltimore City government (Dept. of General Services Business Process Improvement Office) and non profit partner (Code In The Schools). Project creates a project-based training and talent development pipeline to expose local high school students to Python through real agency problems and projects and develop a talent development and path into City government in computational jobs for young students.  
+
+<img src='Media_and_Photos/CITSDGS_2.jpg' height=200> <img src='Media_and_Photos/CITSDGS_3.jpg' height=200> <img src='Media_and_Photos/CITSDGS_4.jpg' height=200>
+<img src='Media_and_Photos/CITSDGS_15.jpg' height=370 width=420> <img src='Media_and_Photos/CITSDGS_16.jpg' height=370 width=440>  
+
 ## Who Is This Repo For???
 
 spell out who the repo is for...
@@ -18,7 +22,7 @@ None : )
 
 The files included here are the templates or actual program documents we used in Baltimore City for establishing, funding, negotiating and communicating both internally and externally about the Pipeline Program.  For this reason we have included them all a pdf and .docx files rather than converting them to .txt files.  
 
-Effort was made to name files in the most expressive way to make navigating program files as quick and intuitive as possible.
+Effort was made to name files in the most expressive way to make navigating program files as quick and intuitive as possible,
 ```
 For example, files in the Communications directory labeled:
 * cits_partneship_media_advisory_jan12
@@ -26,7 +30,7 @@ For example, files in the Communications directory labeled:
 * press_release_on_program_feb1
 * press_release_showcase_may16
 ```
-Help provide a sense for the type and frequency of public information activity and how these actions relate to the program as a whole or individual components or milestones.
+to help provide a sense for the type and frequency of public information activity and how these actions relate to the program as a whole or individual components or milestones.
 
 
 ## Partners
@@ -35,6 +39,11 @@ Help provide a sense for the type and frequency of public information activity a
 * [Code In The Schools](https://www.codeintheschools.org/) - Non Profit Partner (CITS)
 * [Baltimore City Office of IT](https://moit.baltimorecity.gov/) - BCIT
 
+ <img src='Media_and_Photos/Headshots/frl.png'>John Foster, Partner & Programs Manager for [Fearless Solutions](http://fearless.tech/)
+ <img src='Media_and_Photos/Headshots/ua.png'>TJ Graven, VP of Global Information Technology for [Under Armour](https://www.underarmour.com/en-us/) 
+ <img src='Media_and_Photos/Headshots/umb.png'>Dr. Brian Coats, Asst VP Technology Operations & Planning for [University of Maryland Baltimore](http://www.umaryland.edu/)
+ <img src='Media_and_Photos/Headshots/lnq.png'>Mallory Zimmerman, Chief Operating Officer for [Linq Services](https://www.linqservices.com/)
+ 
 
 
 ## Authors
