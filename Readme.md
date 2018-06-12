@@ -57,5 +57,5 @@ This project is licensed under theCC0 1.0 Universal - see the [LICENSE](https://
 
 ## Acknowledgments
 
-* The awesome team at [CITS](https://www.codeintheschools.org/staff/) with special shoutout to Qubilah Huddleston
-* The awesome team at [DGS](https://generalservices.baltimorecity.gov/) with special shoutout to Melanie Shimano, Varghese Paranilam, Alison Lynch
+* The awesome team at [CITS](https://www.codeintheschools.org/staff/) with special shoutout to [Qubilah Huddleston](https://twitter.com/sistershabazz?lang=en)
+* The awesome team at [DGS](https://generalservices.baltimorecity.gov/) with special shoutout to [Melanie Shimano](https://twitter.com/melanieshimano?lang=en), [Varghese Paranilam](https://twitter.com/parnel031?lang=en), Alison Lynch
