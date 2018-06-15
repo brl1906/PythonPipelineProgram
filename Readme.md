@@ -47,7 +47,7 @@ Partner & Programs Manager [Fearless Solutions](http://fearless.tech/) | VP Glob
 
 ## Authors
 
-* **Babila Lima**  -- Director, Business Process Improvement Office
+* **Business Process Improvement Office**  -- Department of General Services (BPIO)
 
 See also the list of [contributors](https://github.com/brl1906/PythonPipelineProgram/blob/master/Initiation_Planning/project_contributors_list.txt) who participated in this project.
 
